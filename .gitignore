@@ -11,6 +11,13 @@
 # production
 /build
 
+# studio
+/studio/logs
+/studio/*.log
+/studio/coverage
+/studio/node_modules
+/studio/dist
+
 # misc
 .DS_Store
 .env.local
